@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abletech.ArxMetric", "Abletech.ArxMetric\Abletech.ArxMetric.csproj", "{AB283D06-9954-4BDD-B182-E3EE466091A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Swagger", "IO.Swagger\IO.Swagger.csproj", "{C5F24D43-051F-4E62-A175-A42725FF7384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB283D06-9954-4BDD-B182-E3EE466091A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB283D06-9954-4BDD-B182-E3EE466091A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB283D06-9954-4BDD-B182-E3EE466091A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB283D06-9954-4BDD-B182-E3EE466091A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F24D43-051F-4E62-A175-A42725FF7384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F24D43-051F-4E62-A175-A42725FF7384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F24D43-051F-4E62-A175-A42725FF7384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F24D43-051F-4E62-A175-A42725FF7384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF236AF9-44F3-49B1-9F1B-F00210E334CA}
+	EndGlobalSection
+EndGlobal
